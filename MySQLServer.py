@@ -1,6 +1,6 @@
-import mysql.connector
-from mysql.connector import errorcode
-import config
+# import mysql.connector
+# from mysql.connector import errorcode
+# import config
 
 def create_database():
     connection = None
