@@ -1,5 +1,3 @@
--- task_6.sql
-
 -- Use the created database
 USE alx_book_store;
 
